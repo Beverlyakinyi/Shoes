@@ -1,0 +1,33 @@
+#container{
+    background-color: rgb(122, 24, 24);
+    text-decoration: none;color: beige;
+    font-style: italic;
+    
+
+    
+}
+#container1{
+    display: flex;
+
+}
+#container2{
+    display: flex;
+}
+#container3{
+    display: flex;
+
+}
+#conatiner4{
+    text-align: center;
+    background-origin: padding-box;
+}
+#container5{
+    display: flex;
+}
+#container10{
+    display: flex;
+    float: inline-end;
+    
+}
+
+
